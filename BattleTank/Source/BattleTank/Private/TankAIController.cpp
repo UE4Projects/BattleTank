@@ -1,6 +1,7 @@
 // Copyright OurReality LLC
 
 #include "BattleTank.h"
+#include "Tank.h"
 #include "TankAIController.h"
 
 
